@@ -21,3 +21,12 @@ Tutorial codes for AI Agents.
 1. space (should do all work easily given by user with limitations)
 2. time (this is how agents operate over time coz they become good by time)
 3. core (uncertainity, so provide feebacks to agents response so that they could do better.)
+
+# Lec 4
+## Design Patterns
+- Tool Design pattern allow LLM to contact with thied party apps, such as some api etc, interacting with some real time database or some crm system.
+
+# Lec 5
+## Agnetic RAG
+
+
