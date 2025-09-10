@@ -1,7 +1,6 @@
 # Virtual environment
 env/
 
-
 # API keys
 .env
 
@@ -14,3 +13,5 @@ data/
 
 # Ignore VS Code settings
 .vscode/
+
+.gitignore
